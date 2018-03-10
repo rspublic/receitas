@@ -83,8 +83,3 @@ cobertura.
 
 1. Asse no forno pré-aquecido a 300°C por 10 minutes ou até que a base esteja
 dourada e o queijo borbulhando.
-
-1. NOTE: As with all dough recipes, the amount of flour will vary depending on 
-weather, brand of flour, etc. Use as much flour as you need to handle the dough,
-but keep in mind that the stickier the dough, the better the texture of your 
-pizza crust will be.
