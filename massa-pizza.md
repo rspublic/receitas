@@ -18,11 +18,11 @@ Você pode fazer qualquer tipo de pão ou massa fermentada com este método.
 Serve para fazer pretzels macios, pão brioche, pizza, etc.
 
 ## Ingredientes
-- 300ml de água morna, temperatura do corpo
-- 1,5g de fermento biológico seco
-- 2 colheres de sopa de azeite
-- 2 colhres de chá de sal
-- 525g de farinha
+- 300ml de água morna, temperatura do corpo.
+- 1,5g de fermento biológico seco.
+- 2 colheres de sopa de azeite.
+- 2 colhres de chá de sal.
+- 525g de farinha.
 
 Serve 4 pizzas.
 
@@ -37,7 +37,7 @@ lado e o sal do outro.
 1. Adicione o azeite na água.
 
 1. Despeje a mistura de azeite e água da temperatura do corpo de uma só vez e 
-mexa com a mão. Ajuste a água na sua farinha, mas não deixe a massa molhada 
+mexa com a mão. Ajuste a água e a farinha, mas não deixe a massa molhada 
 demais.
 
 1. Misture até que toda a farinha seja incorporada na massa e esteja hidratada.
@@ -49,14 +49,14 @@ A massa deve ficar molhada e flácida, e sem nenhum pedaço seco de farinha.
     pegajosa a massa, melhor será a textura da crosta da pizza.
 
 1. Com uma espátula, raspe a massa dos lados do recipiente para juntar à massa.
-Coloque a tampa no recipiente bem ou cubra sua tigela com um plástico bem 
+Coloque a tampa no recipiente ou cubra bem sua tigela com um plástico bem 
 apertado assegurando que nenhum ar entre na massa enquanto repousa. O ar faz
 com que se forme uma pele dura por cima da massa.
 
-1. Deixa a massa descansar em temperatura ambiente para fermentar por 18 horas. 
+1. Deixe a massa descansar em temperatura ambiente para fermentar por 18 horas. 
 Cubra com pano para manter fora da luz solar. No dia seguinte, a massa terá mais
-que dobrado de tamanho e terá formado muitos bolhas em cima. Também vai cheirar 
-a fermentado. Isso é exatamente o que você quer.
+que dobrado de tamanho e terá formado muitos bolhas. Também vai cheirar a 
+fermentado. Isso é exatamente o que você quer.
 
     - Após as 18 horas, se você não planeja assar na hora, pode refrigerar a
     massa. A massa pode ser mantida na geladeira por até 5 dias neste estágio e 
@@ -64,13 +64,14 @@ a fermentado. Isso é exatamente o que você quer.
     aprofundar ao longo desse tempo, desenvolvendo características de fermento.
 
 1. Suje sua mãos e a superfície da massa com um pouco de farinha, apenas o 
-suficiente para impedir que ela grudando nas mãos. Coloque delicadamente a massa
-em uma superfície também suja de farinha. Não aperte para remover o ar massa.
+suficiente para impedir que ela fique grudando nas mãos. Coloque delicadamente 
+a massa em uma superfície também suja de farinha. Não aperte a massa para não
+remover o ar de dentro.
 
 1. Corte a massa em 4 pedaços. Use mais farinha conforme necessário.
 
-1. Dobre ligeiramente para baixo cada porção de massa apenas para formar uma 
-bola. Deixe descansar em um uma superfície suja de farinha por 30 minutos. Sua
+1. Dobre ligeiramente para baixo cada porção apenas para formar uma bola. 
+Deixe descansar em um uma superfície suja de farinha por 30 minutos. Sua
 massa de pizza está pronta para usar!
 
 1. Despeje farinha em uma assadeira plana ou tábua de pizza. Com as mãos,
@@ -78,8 +79,8 @@ estique suavemente sua massa de pizza até 25cm. Você também pode usar um
 rolo para esticar. Se você achar que a massa está reduzindo para trás e difícil 
 de esticar, então deixe descansar por mais 10 minutos.
 
-1. Depois de obter a espessura desejada, espalhe seu molho e adicionar a 
+1. Depois de obter a espessura desejada, espalhe seu molho e adicione a 
 cobertura.
 
-1. Asse no forno pré-aquecido a 300°C por 10 minutes ou até que a base esteja
+1. Asse por 10 minutos no forno pré-aquecido a 300°C ou até que a base esteja
 dourada e o queijo borbulhando.
