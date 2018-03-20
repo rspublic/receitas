@@ -63,7 +63,7 @@ fermentado. Isso é exatamente o que você quer.
     cozida a qualquer momento. Enquanto estiver na geladeira o sabor irá 
     aprofundar ao longo desse tempo, desenvolvendo características de fermento.
 
-1. Suje sua mãos e a superfície da massa com um pouco de farinha, apenas o 
+1. Suje suas mãos e a superfície da massa com um pouco de farinha, apenas o 
 suficiente para impedir que ela fique grudando nas mãos. Coloque delicadamente 
 a massa em uma superfície também suja de farinha. Não aperte a massa para não
 remover o ar de dentro.
